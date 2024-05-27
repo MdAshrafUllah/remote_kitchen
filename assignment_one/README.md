@@ -7,7 +7,8 @@
     <th>Second Screen</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/MdAshrafUllah/remote_kitchen/assets/96839511/1b4d5e9a-66a7-4a28-b67f-3a6e24c03664" width="300" height="600"></td>
-    <td><img src="https://github.com/MdAshrafUllah/remote_kitchen/assets/96839511/5ab35cf6-49ab-4703-ab18-ba4e16985fb3" width="300" height="600"></td>
+    <td><img src="https://github.com/MdAshrafUllah/remote_kitchen/assets/96839511/07f87fc7-6054-4245-8d88-df4c2853d01c" width="300" height="600"></td>
+    <td><img src="https://github.com/MdAshrafUllah/remote_kitchen/assets/96839511/6397309c-06d4-4d02-a348-2c6392180ae6" width="300" height="600"></td>
   </tr>
 </table>
+
