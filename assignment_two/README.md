@@ -1,16 +1,13 @@
 # assignment_two
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<table style="width:100%">
+  <tr>
+    <th>Home Screen</th>
+    <th>Count </th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MdAshrafUllah/remote_kitchen/assets/96839511/1d4d5b32-2daf-4b75-ac7e-e75b5d00902d" width="300" height="600"></td>
+    <td><img src="https://github.com/MdAshrafUllah/remote_kitchen/assets/96839511/99f5315f-54f1-4c89-a38a-d7f72b5d2747" width="300" height="600"></td>
+  </tr>
+</table>
